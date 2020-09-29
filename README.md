@@ -17,7 +17,7 @@
 #### Лучшие результаты показывает Сеть с lr=0.000001
 
 
-### 2) Графики imagenet
+### 2) Сеть, предобученная на imagenet
 
 #### 1. lr = 0.000001
 ![Image alt](https://github.com/PavelPoukh/LAB3.0/blob/master/graphs/2.png)
